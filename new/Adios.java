@@ -9,7 +9,7 @@ public class Adios {
 
 // comments on Adios mundo
 		System.out.println("Adios mundo " + nombre);
-		System.out.println("Adios " + nombre + " tambien");
+		System.out.println("Adios " + nombre + " even more and more");
 
 	}
 
