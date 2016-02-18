@@ -8,6 +8,7 @@ public class Adios {
 	public static void main(String[] zz){
 
 // comments on Adios mundo
+		// Previous line was a commit
 		System.out.println("Adios mundo " + nombre);
 		System.out.println("Adios " + nombre + " even more and more");
 
